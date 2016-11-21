@@ -1,0 +1,9 @@
+.ba-pricing__col--center:after{
+				content: url(../img/popular.png);
+}
+.ba-price__rate{
+	font-family: 'Bebas Thin', 'Bebas', sans-serif;
+}
+.ba-button{
+	font-family: 'Bebas Bold', 'Bebas', sans-serif;
+}
